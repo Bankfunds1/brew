@@ -1,4 +1,4 @@
-# Homebrew
+# BigB
 
 [![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases)
 [![License](https://img.shields.io/github/license/Homebrew/brew)](https://github.com/Homebrew/brew/blob/master/LICENSE.txt)
@@ -87,4 +87,5 @@ Secure password storage and syncing is provided by [1Password for Teams](https:/
 
 Homebrew is generously supported by [GitHub](https://github.com/github), [Custom Ink](https://github.com/customink), [Randy Reddig](https://github.com/ydnar), [Codecademy](https://github.com/Codecademy), [Workbrew](https://github.com/Workbrew) and many other users and organisations via [GitHub Sponsors](https://github.com/sponsors/Homebrew).
 
-[![GitHub](https://github.com/github.png?size=64)](https://github.com/github)
+[![GitHub](https://github.com/github.png?size=64)](https://github.com/github) 
+replaced all info with today date may 2024 and replaced header and website name but retain logo and not been able to resell copyright nor gift 
